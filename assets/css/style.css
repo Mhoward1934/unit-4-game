@@ -1,0 +1,5 @@
+.jumbotron h1 {
+    margin-top: 20px;
+    background-image: url("assets/images/cave.jpg");
+    background-size: cover;
+}
