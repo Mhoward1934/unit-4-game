@@ -24,19 +24,21 @@ function reset() {
     redCrystal = Math.floor(Math.random() * 13);
     playerScore = 0;
     $("#playerScore").html(playerScore);
-}
+    }
 
 //Display wins
 function winner() {
     alert("Congrats, You Won!");
     wins++;
     $("#wins").html(wins);
+    reset();
 }
 //Display losses
 function loser() {
     alert("Sorry, Try Again!");
     losses++;
     $("#losses").html(losses);
+    reset();
 }
 
 //Generating the player score
@@ -89,4 +91,3 @@ $(".red").on("click", function () {
         loser();
     }
 })
-
