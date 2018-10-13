@@ -3,3 +3,10 @@
     background-size: cover;
     color: yellow;
 }
+
+.container-fluid {
+    width: 80%;
+    background-color: beige;
+    text-align: center;
+    padding-bottom: 15px;
+}
