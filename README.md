@@ -11,9 +11,10 @@ Welcome to Crystal Collector! Your mission is to match the Crystals Value genera
 Click on the link below to preview the completed assignment.
 
 
+
 ## Built With
-### HTML5
-### CSS
-### https://getbootstrap.com - automatic!
-### Javascript
-### https://api.jquery.com - automatic! Javascript Library
+#### HTML5
+#### CSS
+#### https://getbootstrap.com - Bootstrap
+#### Javascript
+#### https://api.jquery.com - Javascript Library
