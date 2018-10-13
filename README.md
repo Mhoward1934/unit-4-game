@@ -14,6 +14,6 @@ https://mhoward1934.github.io/unit-4-game/
 ## Built With
 #### HTML5
 #### CSS
-#### [Bootstrap!](https://getbootstrap.com) - Framework
+#### [Bootstrap](https://getbootstrap.com) - Framework
 #### Javascript
-#### [jQuery!](https://api.jquery.com) - Javascript Library
+#### [jQuery](https://api.jquery.com) - Javascript Library
