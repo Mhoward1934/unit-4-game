@@ -1,7 +1,5 @@
 # unit-4-game
-This is the fourth assignment for the SMU Coding Bootcamp.
-
-In this assignment, we were required to create a fun and interactive game for web browsers. This time, the app must dynamically update the HTML with the jQuery library.
+This is project is designed to utilize the jQuery library to create a fun and interactive game for web browsers. This app will dynamically update the HTML with the jQuery library.
 ## Getting Started
 
 ### Crystal Collector
